@@ -1,0 +1,5 @@
+[ppa]
+fqdn = upload.launchpad.net
+method = ftp
+incoming = ~%(ppa)s/ubuntu
+login = anonymous
